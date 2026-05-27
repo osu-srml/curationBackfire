@@ -1,0 +1,4 @@
+max_abs_Jp_explicit_minus_theorem: 1.998401444325e-15
+max_abs_Jp_explicit_minus_fd: 2.864375403533e-14
+max_abs_Jq_explicit_minus_theorem: 6.217248937901e-15
+max_abs_Jq_explicit_minus_fd: 3.552713678801e-14
